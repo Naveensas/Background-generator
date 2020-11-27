@@ -7,8 +7,12 @@ It is intended to be an end-to-end example of what a data science and machine le
 What is classification?
 Classification involves deciding whether a sample is part of one class or another (single-class classification). If there are multiple class options, it's referred to as multi-class classification.
 
+
+
 What we'll end up with
 Since we already have a dataset, we'll approach the problem with the following machine learning modelling framework.
+
+
 
 More specifically, we'll look at the following topics.
 
